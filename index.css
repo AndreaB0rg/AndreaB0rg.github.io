@@ -1,1 +1,77 @@
+<style>
+body {
+  background-color: #AD97C8;
+}
+
+h1 {
+  color: #212529;
+  text-align: center;
+    font-size:50px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+.banner{
+   color: #60546f;
+  }
+</style>
+</head>
+<body>
+<html>
+<head>
+  <div id="banner">
+    <title>Krita Website</title>
+  </div>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #212529;
+            text-align: center;
+        }
+         qw {
+            color: #212529;
+            display: block;
+            text-align: left;
+            font-size: 16px;
+        }
+        p {
+            color:#212529;
+            margin-bottom: 20px;
+            font-size: 20px;
+            
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+            margin-bottom: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .video-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .link-list {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 20px;
+        }
+        .link-list li {
+            margin-bottom: 0px;
+            font-size: 20px;
+        }
+        .link-list li a {
+            color: #212529;
+            text-decoration: none;
+        }
+    </style>
 
